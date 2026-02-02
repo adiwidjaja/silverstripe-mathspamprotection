@@ -15,7 +15,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "silverstripe/spamprotection": "^3"
+        "silverstripe/spamprotection": "^4"
     },
     "autoload": {
         "psr-4": {
